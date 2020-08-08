@@ -1,7 +1,7 @@
 Hey Buddy!! 👋
 
 I am Aditya Sharma. I am a sophomere at Birla Institute of Technology and Science, Pilani. I love developing the web. And metaphorically, I am in search of a bird named 'John Doe'.
-- 🔭 I’m currently working on fixing bugs in open source projects like fossasia and arduino.
+- 🔭 I’m currently working on open source projects like fossasia and arduino.
 - 🌱 I’m currently learning JavaScript and Django
 - 📫 How to reach me: <br>
   Personal Website -  https://helloaditya.bss.design/ <br>
