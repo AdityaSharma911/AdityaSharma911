@@ -11,6 +11,7 @@ I am Aditya Sharma. I am a sophomere at Birla Institute of Technology and Scienc
    JS - https://github.com/AdityaSharma911/Notes-for-programming-languages/tree/master/JavaScript
 
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AdityaSharma911)](https://github.com/AdityaSharma911/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSharma911)](https://github.com/AdityaSharma911/github-readme-stats)
 
   
 
