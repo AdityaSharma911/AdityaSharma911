@@ -1,10 +1,27 @@
 Hey Buddy!! 👋
 
+
+
+
+[<img align="left" alt="Aditya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Aditya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aditya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] <br><br>
+<a href="http://helloaditya.bss.design/" target="_blank"> Personal Website </a>
+<hr>
+
 I am Aditya Sharma. I am a sophomere at Birla Institute of Technology and Science, Pilani. I love developing the web. And metaphorically, I am in search of a bird named 'John Doe'.<hr>
-- 🌱 I’m currently learning JavaScript and Django
-- 📫 How to reach me: <br>
-  Personal Website -  https://helloaditya.bss.design/ <br>
-  LinkedIn - www.linkedin.com/in/adityasharma9 <br>
+
+# Skills:
+
+
+<a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a>
+<a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a>
+<a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a>
+
+
+
+
+
   
 - 💬 Ask me about: Front-End web technologies<br>
    PHP - https://github.com/AdityaSharma911/Notes-for-programming-languages/tree/master/PHP <br>
@@ -18,3 +35,9 @@ I am Aditya Sharma. I am a sophomere at Birla Institute of Technology and Scienc
   
 
 
+
+[Personal website]: https://helloaditya.bss.design/
+[facebook]: https://www.facebook.com/thedhruvrawat/
+[twitter]: https://twitter.com/AdityaSharma_91
+[instagram]: https://www.instagram.com/aditya.sharma1.0/
+[linkedin]: www.linkedin.com/in/adityasharma9
