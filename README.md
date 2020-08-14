@@ -7,6 +7,7 @@ I am Aditya Sharma. I am a sophomere at Birla Institute of Technology and Scienc
 <a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a>
 <a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a>
 <a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a>
+<a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></a>
 
 # Contact me:
 [<img align="left" alt="Aditya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
