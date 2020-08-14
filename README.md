@@ -37,7 +37,6 @@ I am Aditya Sharma. I am a sophomere at Birla Institute of Technology and Scienc
 
 
 [Personal website]: https://helloaditya.bss.design/
-[facebook]: https://www.facebook.com/thedhruvrawat/
 [twitter]: https://twitter.com/AdityaSharma_91
 [instagram]: https://www.instagram.com/aditya.sharma1.0/
 [linkedin]: www.linkedin.com/in/adityasharma9
