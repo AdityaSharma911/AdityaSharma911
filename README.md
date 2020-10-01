@@ -31,3 +31,5 @@ I am Aditya Sharma. I am a sophomere at Birla Institute of Technology and Scienc
 [twitter]: https://twitter.com/AdityaSharma_91
 [instagram]: https://www.instagram.com/aditya.sharma1.0/
 [linkedin]: www.linkedin.com/in/adityasharma9
+<br />
+<a href="https://giphy.com/gifs/1Zx2wssVsQhWzald5F/html5"></a>
