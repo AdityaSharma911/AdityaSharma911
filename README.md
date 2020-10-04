@@ -16,7 +16,7 @@ I am Aditya Sharma. I am a sophomere at Birla Institute of Technology and Scienc
 [<img align="left" alt="Aditya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] <br>
 <hr>
 <a href="http://helloaditya.bss.design/" target="_blank"> <img src="![5faac9d0-13e8-4418-991a-f3a4dd883063_200x200](https://user-images.githubusercontent.com/55270982/95015760-65daba00-066c-11eb-9dae-5b9fe13c2102.png)"</a>
-<hr>
+
   
    ## Resources<br>
    PHP - https://github.com/AdityaSharma911/Notes-for-programming-languages/tree/master/PHP <br>
