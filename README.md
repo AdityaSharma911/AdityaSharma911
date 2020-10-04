@@ -2,6 +2,9 @@ Hey Buddy!! 👋
 
 I am Aditya Sharma. I am a sophomere at Birla Institute of Technology and Science, Pilani. I love developing the web. And metaphorically, I am in search of a bird named 'John Doe'.<hr>
 
+<a href="http://helloaditya.bss.design/" target="_blank"> <img src="![5faac9d0-13e8-4418-991a-f3a4dd883063_200x200](https://user-images.githubusercontent.com/55270982/95015760-65daba00-066c-11eb-9dae-5b9fe13c2102.png)"</a>
+  <hr>
+
 # Skills:
 
 <a href="#"><img height="70px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a>
@@ -14,7 +17,7 @@ I am Aditya Sharma. I am a sophomere at Birla Institute of Technology and Scienc
 [<img align="left" alt="Aditya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Aditya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aditya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] <br>
-<a href="http://helloaditya.bss.design/" target="_blank"> <img src="![5faac9d0-13e8-4418-991a-f3a4dd883063_200x200](https://user-images.githubusercontent.com/55270982/95015760-65daba00-066c-11eb-9dae-5b9fe13c2102.png)"</a>
+
 
   
    ## Resources<br>
