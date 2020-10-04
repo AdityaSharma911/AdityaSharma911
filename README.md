@@ -4,11 +4,11 @@ I am Aditya Sharma. I am a sophomere at Birla Institute of Technology and Scienc
 
 # Skills:
 
-<a href="#"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
-<a href="#"><img src="https://img.icons8.com/color/96/000000/c-programming.png"></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"></a>
-<a href="#"><img src="https://img.icons8.com/nolan/96/react-native.png">
+<a href="#"><img height="70px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a>
+<a href="#"><img height="70px" src="https://img.icons8.com/color/48/000000/javascript.png"></a>
+<a href="#"><img height="70px" src="https://img.icons8.com/color/96/000000/c-programming.png"></a>
+<a href="#"><img height="70px" src="https://img.icons8.com/color/48/000000/bootstrap.png"></a>
+<a href="#"><img height="70px"src="https://img.icons8.com/nolan/96/react-native.png">
 
 # Contact me:
 [<img align="left" alt="Aditya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
