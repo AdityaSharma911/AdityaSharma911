@@ -4,10 +4,10 @@ I am Aditya Sharma. I am a sophomere at Birla Institute of Technology and Scienc
 
 # Skills:
 
-<a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a>
-<a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a>
-<a href="#"><img height="50" src="https://img.icons8.com/color/96/000000/c-programming.png"></a>
-<a href="#"><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"></a>
+<a href="#"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/javascript.png"></a>
+<a href="#"><img src="https://img.icons8.com/color/96/000000/c-programming.png"></a>
+<a href="#"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"></a>
 <a href="#"><img src="https://img.icons8.com/nolan/96/react-native.png">
 
 # Contact me:
