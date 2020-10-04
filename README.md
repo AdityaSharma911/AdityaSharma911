@@ -2,8 +2,8 @@ Hey Buddy!! 👋
 
 I am Aditya Sharma. I am a sophomere at Birla Institute of Technology and Science, Pilani. I love developing the web. And metaphorically, I am in search of a bird named 'John Doe'.<hr>
 
-<a href="http://helloaditya.bss.design/" target="_blank"> <img src="![5faac9d0-13e8-4418-991a-f3a4dd883063_200x200](https://user-images.githubusercontent.com/55270982/95015760-65daba00-066c-11eb-9dae-5b9fe13c2102.png)"</a>
-  <hr>
+
+  <a href="http://helloaditya.bss.design/"><img src="![5faac9d0-13e8-4418-991a-f3a4dd883063_200x200](https://user-images.githubusercontent.com/55270982/95015760-65daba00-066c-11eb-9dae-5b9fe13c2102.png"></a>
 
 # Skills:
 
