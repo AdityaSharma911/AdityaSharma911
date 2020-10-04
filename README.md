@@ -2,8 +2,8 @@ Hey Buddy!! 👋
 
 I am Aditya Sharma. I am a sophomere at Birla Institute of Technology and Science, Pilani. I love developing the web. And metaphorically, I am in search of a bird named 'John Doe'.<hr>
 
-
-  <a href="http://helloaditya.bss.design/"><img src="![5faac9d0-13e8-4418-991a-f3a4dd883063_200x200](https://user-images.githubusercontent.com/55270982/95015760-65daba00-066c-11eb-9dae-5b9fe13c2102.png"></a>
+<a href="http://helloaditya.bss.design/"><img src="https://user-images.githubusercontent.com/55270982/95015760-65daba00-066c-11eb-9dae-5b9fe13c2102.png"></a>
+<hr>
 
 # Skills:
 
@@ -12,20 +12,20 @@ I am Aditya Sharma. I am a sophomere at Birla Institute of Technology and Scienc
 <a href="#"><img height="70px" src="https://img.icons8.com/color/96/000000/c-programming.png"></a>
 <a href="#"><img height="70px" src="https://img.icons8.com/color/48/000000/bootstrap.png"></a>
 <a href="#"><img height="70px" src="https://img.icons8.com/nolan/96/react-native.png">
+  <br><br>
 
 # Contact me:
 [<img align="left" alt="Aditya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Aditya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aditya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] <br>
+<br>
 
-
-  
-   ## Resources<br>
-   PHP - https://github.com/AdityaSharma911/Notes-for-programming-languages/tree/master/PHP <br>
-   JS - https://github.com/AdityaSharma911/Notes-for-programming-languages/tree/master/JavaScript
-   <hr>
+# Resources<br>
+PHP - https://github.com/AdityaSharma911/Notes-for-programming-languages/tree/master/PHP <br>
+JS - https://github.com/AdityaSharma911/Notes-for-programming-languages/tree/master/JavaScript
+<hr>
    
-   ## Github stats:<br>
+ # Github stats:<br>
   
    [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AdityaSharma911&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/AdityaSharma911/github-readme-stats)
    
