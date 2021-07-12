@@ -15,9 +15,9 @@ I am Aditya Sharma. I am a sophomore at Birla Institute of Technology and Scienc
   <br><br>
 
 # Contact me:
-[<img align="left" alt="Aditya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
 [<img align="left" alt="Aditya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aditya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] <br>
+
 <br>
 
 # Resources<br>
@@ -34,6 +34,6 @@ JS - https://github.com/AdityaSharma911/Notes-for-programming-languages/tree/mas
 [Personal website]: https://helloaditya.bss.design/
 [twitter]: https://twitter.com/AdityaSharma_91
 [instagram]: https://www.instagram.com/aditya.sharma1.0/
-[linkedin]: www.linkedin.com/in/adityasharma9
+[linkedin]: https://www.linkedin.com/in/adityasharma9
 <br />
 
