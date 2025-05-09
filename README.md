@@ -25,9 +25,9 @@ Currently orchestrating something revolutionary in Financial Modelling & Ensembl
 ---
 
 ## 📚 Resources & Notes
-- 📜 [DevOPS Directive] (https://fate-pewter-466.notion.site/DevOps-Directive-803e03ed721e43ce8761b0466692d1ce)
-- 📄 [PHP Notes](https://github.com/AdityaSharma911/Notes-for-programming-languages/tree/master/PHP)
-- 📜 [JavaScript Notes](https://github.com/AdityaSharma911/Notes-for-programming-languages/tree/master/JavaScript)
+- 📄 [DevOPS Directive](https://fate-pewter-466.notion.site/DevOps-Directive-803e03ed721e43ce8761b0466692d1ce)
+- 📄 [PHP](https://github.com/AdityaSharma911/Notes-for-programming-languages/tree/master/PHP)
+- 📄 [JavaScript](https://github.com/AdityaSharma911/Notes-for-programming-languages/tree/master/JavaScript)
 
 ---
 
