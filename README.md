@@ -1,8 +1,6 @@
 Hey!! 👋
 
 I am Aditya. Graduated from BITS Pilani in 2024. I am a SDE, currently orchestrating something revolutionary in the field of Financial Modelling and Ensemble Models.
-
-<a href="http://helloaditya.bss.design/"><img src="https://user-images.githubusercontent.com/55270982/95016505-092dce00-0671-11eb-9437-934ee6c23fbb.jpg"></a>
 <hr>
 
 # Skills:
