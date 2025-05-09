@@ -34,9 +34,9 @@ Currently orchestrating something revolutionary in Financial Modelling & Ensembl
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSharma911&show_icons=true&count_private=true&theme=tokyonight" alt="Aditya's GitHub stats"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSharma911&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaSharma911&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaSharma911&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdityaSharma911&theme=tokyonight" />
 </p>
 
 ---
@@ -45,7 +45,5 @@ Currently orchestrating something revolutionary in Financial Modelling & Ensembl
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adityasharma9"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="40"/></a>
-  <a href="https://twitter.com/AdityaSharma_91"><img src="https://img.icons8.com/color/48/twitter.png" width="40"/></a>
-  <a href="https://www.instagram.com/aditya.sharma1.0/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40"/></a>
-  <a href="https://helloaditya.bss.design/"><img src="https://img.icons8.com/ios-filled/50/domain.png" width="40"/></a>
+  <a href="https://twitter.com/meow_adi"><img src="https://img.icons8.com/color/48/twitter.png" width="40"/></a>
 </p>
