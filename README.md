@@ -15,16 +15,15 @@ Currently orchestrating something revolutionary in Financial Modelling & Ensembl
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP"/>
-  <img height="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
-  <img height="40" src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C"/>
-  <img height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
-  <img height="40" src="https://img.icons8.com/nolan/64/react-native.png" alt="React Native"/>
-</p>
-
+## 🔧 Skills
+💻 Languages & Frameworks
+<p align="left"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java" /> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" /> <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python" /> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="JavaScript" /> <img src="https://img.icons8.com/color/48/000000/typescript.png" title="TypeScript" /> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Boot" /> <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" /> </p>
+☁️ Cloud & DevOps
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40" title="AWS" /> <img src="https://img.icons8.com/color/48/000000/terraform.png" title="Terraform" /> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-aws-cdk-a-software-development-framework-to-define-cloud-infrastructure-logo-color-tal-revivo.png" title="AWS CDK" /> <img src="https://img.icons8.com/fluency/48/docker.png" title="Docker" /> <img src="https://img.icons8.com/color/48/kubernetes.png" title="Kubernetes" /> <img src="https://img.icons8.com/color/48/000000/jenkins.png" title="Jenkins" /> <img src="https://img.icons8.com/color/48/github--v1.png" title="GitHub Actions" /> </p>
+🗄️ Database & Storage
+<p align="left"> <img src="https://img.icons8.com/color/48/postgreesql.png" title="PostgreSQL" /> <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL" /> <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB" /> <img src="https://img.icons8.com/color/48/redis.png" title="Redis" /> <img src="https://img.icons8.com/ios/48/amazon-athena.png" title="AWS Athena" /> </p>
+🧪 Practices & Tools
+<p align="left"> <img src="https://img.icons8.com/ios-filled/50/microservices.png" title="Microservices" /> <img src="https://img.icons8.com/color/48/api.png" title="REST APIs" /> <img src="https://img.icons8.com/color/48/kafka.png" title="Kafka" /> <img src="https://img.icons8.com/color/48/code.png" title="DSA" /> <img src="https://img.icons8.com/fluency/48/000000/settings.png" title="System Design" /> <img src="https://img.icons8.com/color/48/000000/test-tube.png" title="JUnit" /> <img src="https://img.icons8.com/ios/48/load-test.png" title="JMeter" /> <img src="https://img.icons8.com/color/48/000000/logstash.png" title="ELK" /> <img src="https://img.icons8.com/color/48/lock.png" title="OAuth2 / JWT" /> </p>
 ---
 
 ## 📚 Resources & Notes
