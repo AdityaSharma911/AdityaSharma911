@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Aditya 👋</h1>
 <p align="center">
-🎓 BITS Pilani '24 • 💻 Software Developer • 📊 FinTech Enthusiast <br>
+💻 SDE@Amazon • 🎓 BITS Pilani '24<br>
 Currently orchestrating something revolutionary in Financial Modelling & Ensemble Models 🚀
 </p>
 
